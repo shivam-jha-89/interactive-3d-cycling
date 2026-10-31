@@ -1,7 +1,7 @@
-# SUNBREAK — Downhill Club
+# interactive-3d-cycling — Downhill Club
 
 <p align="center">
-  <img src="media/SUNBREAK-showcase-poster.jpg" alt="Four cel-shaded BMX riders racing down the SUNBREAK mountain course" width="100%">
+  <img src="media/SUNBREAK-showcase-poster.jpg" alt="Four cel-shaded BMX riders racing down the interactive-3d-cycling mountain course" width="100%">
 </p>
 
 <p align="center"><strong>Four riders. One mountain. Full send.</strong></p>
@@ -19,6 +19,9 @@ A procedural, cel-shaded BMX race down Mt. Komorebi. Four riders tear through a 
 - Generated Web Audio soundtrack and effects, plus checkpoints, splits, boost, scoring, saved ghosts and replay
 
 ## Run
+git clone:https://github.com/shivam-jha-89/interactive-3d-cycling
+
+live : https://interactive-3d-cycling.vercel.app/
 
 Requires Node.js 22.12+ (Node 24 recommended) and Chrome with WebGL2.
 

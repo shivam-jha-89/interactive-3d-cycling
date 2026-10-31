@@ -1,14 +1,14 @@
 {
-  "name": "sunbreak-downhill",
+  "name": "interactive-3d-cycling",
   "version": "1.0.0",
   "description": "A procedural cel-shaded downhill BMX racer built with Three.js.",
   "private": true,
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Imirushik/sunbreak-downhill-3D-game.git"
+    "url": "https://github.com/shivam-jha-89/interactive-3d-cycling"
   },
-  "homepage": "https://github.com/Imirushik/sunbreak-downhill-3D-game#readme",
+  "homepage": "https://github.com/shivam-jha-89/interactive-3d-cycling",
   "keywords": [
     "threejs",
     "typescript",

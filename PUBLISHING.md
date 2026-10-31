@@ -1,9 +1,9 @@
-# Publish SUNBREAK to GitHub
+# Publish interactive-3d-cycling to GitHub
 
 Recommended repository details:
 
 - **Owner:** `Imirushik`
-- **Repository:** `sunbreak-downhill-3D-game`
+- **Repository:** `interactive-3d-cycling`
 - **Visibility:** Public
 - **Description:** `A procedural cel-shaded downhill BMX racer built with Three.js—four riders, bike physics, tricks, dynamic weather and wild speed effects.`
 - **Topics:** `threejs`, `typescript`, `vite`, `webgl`, `bmx`, `racing-game`, `procedural-generation`, `cel-shading`, `npr`, `browser-game`
@@ -24,7 +24,7 @@ Recommended repository details:
    git config --local user.name "Imirushik"
    git config --local user.email "YOUR_GITHUB_NOREPLY_ADDRESS"
    git commit -m "Launch SUNBREAK: Downhill Club"
-   git remote add origin https://github.com/Imirushik/sunbreak-downhill-3D-game.git
+   git remote add origin https://github.com/shivam-jha-89/interactive-3d-cycling
    git push -u origin main
    ```
 
